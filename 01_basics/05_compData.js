@@ -21,3 +21,10 @@ console.log(undefined>=0)//false
 // for equality, but unlike the loose equality operator ==, it does not perform type conversion. 
 // This means that for === to return true, both the value and the type of the operands 
 // must be exactly the same.else false
+
+
+
+
+
+
+// https://www.perplexity.ai/search/console-log-null-0-false-conso-_Jdl46M5TxO1t_YiZeJh7A
