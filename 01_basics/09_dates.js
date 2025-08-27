@@ -25,8 +25,8 @@ console.log(mycurrent.getFullYear());
 console.log(mycurrent.getMonth());
 
 //we can customize the methods simply write the method and hover it
-mycurrent.toLocaleString( 'default',{weekday= 'narrow'})
-
+mycurrent.toLocaleString( 'default',{weekday :'narrow'})
+//in methods we don't use = we use :
 
 
 
