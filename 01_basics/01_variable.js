@@ -3,7 +3,7 @@ const accountId=12343747
 console.log(accountId);
 let accountEmail="vamksdoi@eauosc.com"
 var accountPassword="121312"
-/*use of var is stictly avoided because  it doesnot follow the bleck and functional scope of the variable
+/*use of var is stictly avoided because  it doesnot follow the block and functional scope of the variable
 so in the modern days the developers use only const and let*/
 accountCity="hyderabad"//we can declare a variable without any declaration in the js which is not the 
 //correct practice
